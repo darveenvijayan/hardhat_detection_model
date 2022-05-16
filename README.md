@@ -1,5 +1,6 @@
 # Structure
 
+```
 hardhat_detection_model/
       ├── README.md
       ├── requirements.txt
@@ -13,3 +14,4 @@ hardhat_detection_model/
       │     └── inference.py
       ├── model_store/
       ├── docker_deployment/
+```
