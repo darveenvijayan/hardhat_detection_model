@@ -13,5 +13,5 @@ hardhat_detection_model/
       ├── inference/
       │          └── inference.py
       ├── model_store/
-      ├── docker_deployment/
+      └── docker_deployment/
 ```
